@@ -1,0 +1,35 @@
+{
+  "name": "@ktmcp-cli/billingo",
+  "version": "1.0.0",
+  "description": "Production-ready CLI for Billingo API v3 - Hungarian invoicing and billing",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "billingo": "./bin/billingo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node bin/billingo.js"
+  },
+  "keywords": [
+    "billingo",
+    "invoice",
+    "billing",
+    "hungary",
+    "cli",
+    "api"
+  ],
+  "author": "KTMCP",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "chalk": "^5.3.0",
+    "ora": "^8.0.1",
+    "conf": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

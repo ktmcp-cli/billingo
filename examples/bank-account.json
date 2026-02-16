@@ -1,0 +1,8 @@
+{
+  "name": "Primary Business Account",
+  "account_number": "12345678-12345678-12345678",
+  "account_number_iban": "HU42123456781234567812345678",
+  "swift": "ABCDHUHB",
+  "currency": "HUF",
+  "need_qr": true
+}

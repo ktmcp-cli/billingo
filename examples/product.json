@@ -1,0 +1,10 @@
+{
+  "name": "Professional Consulting Hour",
+  "comment": "Technical consulting and advisory services",
+  "currency": "HUF",
+  "unit": "hour",
+  "unit_price": 50000,
+  "unit_price_type": "gross",
+  "vat": "27%",
+  "entitlement": "SZOLG"
+}

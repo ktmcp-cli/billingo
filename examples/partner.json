@@ -1,0 +1,20 @@
+{
+  "name": "Example Company Ltd.",
+  "address": {
+    "country_code": "HU",
+    "post_code": "1234",
+    "city": "Budapest",
+    "address": "Example Street 42"
+  },
+  "emails": [
+    "contact@example.com",
+    "accounting@example.com"
+  ],
+  "phone": "+36 1 234 5678",
+  "taxcode": "12345678-1-23",
+  "iban": "HU42123456781234567812345678",
+  "swift": "ABCDHUHB",
+  "account_number": "12345678-12345678-12345678",
+  "general_ledger_number": "GL123",
+  "comment": "Primary customer - Net 30 payment terms"
+}
