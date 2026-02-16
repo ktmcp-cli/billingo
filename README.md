@@ -1,5 +1,10 @@
 # Billingo CLI
 
+<p align="center">
+  <img src="banner.png" alt="KTMCP Banner" width="100%">
+</p>
+
+
 Production-ready command-line interface for the [Billingo API v3](https://www.billingo.hu/) - Hungarian invoicing and billing automation.
 
 ## Features
